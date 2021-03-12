@@ -1,0 +1,13 @@
+package primerosPasos;
+
+public class VariablesJava {
+
+	public static void main(String args[]) {
+		byte edad;
+		edad = 30;
+		
+		System.out.println(edad);
+		
+	}
+
+}

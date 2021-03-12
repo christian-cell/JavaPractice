@@ -1,0 +1,14 @@
+package primerosPasos;
+
+public class PrimeraClase {
+	
+	//vamos a crear variables ahora
+	
+	String saludo = "HOla gente como están?";
+	byte salario = 38;
+	
+	public static void main(String args[]) {
+		System.out.print("dsfg");
+	}
+
+}

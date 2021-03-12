@@ -1,0 +1,16 @@
+package primerosPasos;
+
+public class VariablesJava {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		byte edad = 40;
+		
+		edad = 100;
+		
+		System.out.println(edad);
+
+	}
+
+}

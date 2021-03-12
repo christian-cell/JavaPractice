@@ -1,0 +1,18 @@
+package primerosPasos;
+
+public class OperadoresJava {
+	public static void main(String args[]) {
+		/*
+		 * Aritméticos : + suma  ; - resta ; * multiplicacion ; / division 
+		 * Lógicos : < menor que ; > mayor que ; <> mayor o menor que ; != distinto a ; == igual a ;
+		 * && y lógico si el primer valor es igual a , si el segundo valor es igual a ... o diferente ; 
+		 * ++ -- incremento o decremento de 1 , importantisimo para hacer bucles; +=4 -=4 para añadirle 4
+		 * por ejemplo al número de la izquierda.
+		 * CONCATENACIÓN: +: une o concatena ; EJS:
+		 */
+		int a = 5; int b; b=7; int c = b+a;
+		
+		System.out.print(c);
+	}
+
+}
